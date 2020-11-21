@@ -11,6 +11,7 @@ It is based on `archlinux:base-devel` official Docker image.
 It includes for the time being:
 - `gcc`
 - `make`
+- `python`
 - `git`
 - `valgrind`
 - `tar`
