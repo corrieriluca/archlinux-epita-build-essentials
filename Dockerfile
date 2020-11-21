@@ -1,6 +1,7 @@
 FROM archlinux:base-devel
 
-LABEL maintainer="luca.corrieri@epita.fr"
+LABEL version="1.0"
+LABEL maintainer="Luca CORRIERI <luca.corrieri@epita.fr>"
 
 RUN pacman -Syu --noconfirm
 
